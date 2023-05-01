@@ -1,1 +1,1 @@
-# JNI_test
+# Java Native Interface demo
